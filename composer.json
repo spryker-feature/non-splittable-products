@@ -8,7 +8,6 @@
   "require": {
     "php": ">=7.1",
     "spryker-feature/product": "^201906.0",
-    "spryker-shop/product-quantity-widget": "^1.0.0",
     "spryker/product-quantity": "^3.0.0",
     "spryker/product-quantity-data-import": "^3.0.0",
     "spryker/product-quantity-storage": "^3.0.0"

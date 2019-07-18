@@ -7,7 +7,6 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/product": "^201907.0",
     "spryker/product-quantity": "^3.0.0",
     "spryker/product-quantity-data-import": "^3.0.0",
     "spryker/product-quantity-storage": "^3.0.0"

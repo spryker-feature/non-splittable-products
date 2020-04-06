@@ -7,3 +7,8 @@ This is a technical feature that controls if items boutght in quantity greater t
 ```
 composer require spryker-feature/non-splittable-products
 ```
+
+## Recommended feature dependencies
+- [spryker-feature/product](https://github.com/spryker-feature/product)
+
+If you don't include the feature dependencies, make sure you use the respective modules instead.

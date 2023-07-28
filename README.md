@@ -2,6 +2,8 @@
 
 This is a technical feature that controls if items boutght in quantity greater than 1 are grouped in the cart or are processed as separate items
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/cart-and-checkout/202307.0/base-shop/non-splittable-products-feature-overview.html)
+
 ## Installation
 
 ```

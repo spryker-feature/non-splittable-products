@@ -7,13 +7,13 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker/product-quantity": "^3.4.0",
+        "spryker/product-quantity": "^3.6.0",
         "spryker/product-quantity-data-import": "^3.0.0",
-        "spryker/product-quantity-storage": "^3.4.0"
+        "spryker/product-quantity-storage": "^3.5.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202507.x-dev"
+            "dev-master": "202512.x-dev"
         }
     },
     "suggest": {

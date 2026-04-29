@@ -9,11 +9,11 @@
         "php": ">=8.2",
         "spryker/product-quantity": "^3.7.0",
         "spryker/product-quantity-data-import": "^3.0.0",
-        "spryker/product-quantity-storage": "^3.5.0"
+        "spryker/product-quantity-storage": "^3.7.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202602.x-dev"
+            "dev-master": "202604.x-dev"
         }
     },
     "suggest": {
